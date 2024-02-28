@@ -35,5 +35,6 @@ public class KitapRunner {
 
         KitapMethods.kitaplarListesi();
         KitapMethods.menu();
+
     }
 }
