@@ -1,4 +1,4 @@
-package esra;
+package esra.kitapProjesi;
 
 public class KitapFields {
 
